@@ -1,7 +1,7 @@
 package routes
 
 import (
-	CO "Go-Mini-Social-Network/config"
+	CO "github.com/mwbanks/Go-Mini-Social-Network/config"
 	"net/http"
 
 	"github.com/gin-gonic/gin"
